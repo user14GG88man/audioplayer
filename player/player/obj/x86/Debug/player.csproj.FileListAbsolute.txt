@@ -1,0 +1,44 @@
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\obj\x86\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\obj\x86\Debug\player.Form1.resources
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\obj\x86\Debug\player.Properties.Resources.resources
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\obj\x86\Debug\player.csproj.GenerateResource.Cache
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\bass.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\player.exe
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\player.pdb
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\Bass.Net.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\ColorSlider.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\ColorSlider.pdb
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\obj\x86\Debug\player.exe
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\obj\x86\Debug\player.pdb
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\bassalac.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\basscd.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\bassdsd.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\bassenc.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\bassflac.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\bassmidi.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\bassopus.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\player\player\bin\Debug\plugins\basswma.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\bass.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\bassalac.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\basscd.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\bassdsd.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\bassenc.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\bassflac.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\bassmidi.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\bassopus.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\plugins\basswma.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\player.exe
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\player.pdb
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\Bass.Net.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\ColorSlider.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\bin\Debug\ColorSlider.pdb
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.Form1.resources
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.Properties.Resources.resources
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.csproj.GenerateResource.cache
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.csproj.CoreCompileInputs.cache
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.csproj.CopyComplete
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.exe
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.pdb
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.Form2.resources
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.Form3.resources
+D:\знадобиться\навчальна\Гоянюк\audio player\player\player\obj\x86\Debug\player.csprojAssemblyReference.cache

@@ -1,0 +1,38 @@
+E:\Temp\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+E:\Temp\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\bin\Debug\ColorSlider.dll
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\bin\Debug\ColorSlider.pdb
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\ColorSlider.dll
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\ColorSlider.pdb
+E:\Новая папка\ColorSlider\bin\Debug\ColorSlider.dll
+E:\Новая папка\ColorSlider\bin\Debug\ColorSlider.pdb
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+E:\Новая папка\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.dll
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.pdb
+C:\Users\Іван Тарасюк\Desktop\audio player\ColorSlider\bin\Debug\ColorSlider.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\ColorSlider\bin\Debug\ColorSlider.pdb
+C:\Users\Іван Тарасюк\Desktop\audio player\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+C:\Users\Іван Тарасюк\Desktop\audio player\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+C:\Users\Іван Тарасюк\Desktop\audio player\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+C:\Users\Іван Тарасюк\Desktop\audio player\ColorSlider\obj\Debug\ColorSlider.dll
+C:\Users\Іван Тарасюк\Desktop\audio player\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\bin\Debug\ColorSlider.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.cache
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\obj\Debug\ColorSlider.csproj.CoreCompileInputs.cache
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\obj\Debug\ColorSlider.dll
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\знадобиться\навчальна\Гоянюк\audio player\ColorSlider\obj\Debug\ColorSlider.csprojAssemblyReference.cache
